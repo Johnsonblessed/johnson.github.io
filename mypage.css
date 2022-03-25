@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.scnd1{
+    background-image: url(./images/ing_32193_139796.jpg);
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.scnd2{
+    margin-top: 80px;
+    font-size: large;
+    text-align: center;
+    color: floralwhite;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-between;
+}
+
+.scnd3{
+    background-image: url(./images/Reasons-Why-You-Should-Consider-Mobile-Developer-than-Web-Developer.jpg);
+    background-size: cover;
+    text-align: center;
+}
+.scnd3 h1{
+    color: khaki;
+
+}
+.scnd3 p{
+    color: hsla(112, 61%, 93%, 0.952);
+}
+.scnd2 h1{
+    color: slategrey;
+    font: 500;
+}
+.scnd2 p{
+    color: tan;
+    font: 400;
+}
+
+.scnd4 img{
+    height: 60vh;
+    margin-bottom: 13px;
+}
+.scnd5{
+    text-align: center;
+    background-color: lightsteelblue;
+}
+.scnd6{
+    text-align: center;
+    margin: 0;
+    padding: 13px;
+}
+.scnd7{
+    background-color: dimgrey;
+    align-items: center;
+    justify-content: space;
+}
+.scnd8{
+    text-align: center;
+}
+
+.scnd10{
+    background-color: rgb(115, 168, 168);
+}
+.formed{
+    background-color: green;
+    margin:30px;
+    border: 3px solid blueviolet;
+    color: azure;
+    
+}
+.ghtt{
+    background-color: bisque;
+    margin-top: 8px;
+    border: 12px solid ivory ;
+}
+.formed button{
+    background-color: coral;
+    width: 100px;
+    height: 50px;
+    border-radius: 15%;
+}
+.gtt{
+    justify-content: space-between;
+    margin: 5px 5px;
+    padding: 12px;
+    text-decoration: none;
+    color: aquamarine;
+    background-color: burlywood;
+    
+}
+.contact{
+    background-image: url(./images/johnson-vector-logo.png);
+    background-color: darkkhaki;
+}
+
+
